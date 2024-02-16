@@ -26,13 +26,13 @@
 
 - https://habr.com/ru/articles/259055/
 
-## [Репозиторий "a-skrip"](https://github.com/a-skrip?tab=repositories)
+
 
 
 Список выполненных задач:
  1. [ ] Разобраться со структурой проекта (onboarding)
  2. [x] Удалить социальные сети: vk, yandex. ___Easy task
- 3. [ ] Вынести чувствительную информацию в отдельный проперти файл. ___Easy task
+ 3. [x] Вынести чувствительную информацию в отдельный проперти файл. ___Easy task
  4. [ ] Переделать тесты так, чтоб во время тестов использовалась in memory БД (H2), а не PostgreSQL.
  5. [ ] Написать тесты для всех публичных методов контроллера ProfileRestController.
  6. [ ] Сделать рефакторинг метода com.javarush.jira.bugtracking.attachment.FileUtil#upload. ___Easy task
